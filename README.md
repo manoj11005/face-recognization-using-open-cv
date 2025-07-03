@@ -13,8 +13,12 @@ This repository contains a Python script for real-time face detection using a we
 - Python 3.x
 - OpenCv
 
-  ## Installation
-  1- Clone the repository:
+ ## Installation
 
-  git clone https://github.com/yourusername/real-time-face-detection.git
+Clone the repository and navigate into the directory:
+
+```bash
+git clone https://github.com/yourusername/real-time-face-detection.git
 cd real-time-face-detection
+pip install opencv-python
+
