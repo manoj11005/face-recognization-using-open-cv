@@ -10,5 +10,5 @@ This repository contains a Python script for real-time face detection using a we
 - **Interactive**: Runs until the user presses the 'q' key to exit.
 
 ## Prerequisites
--Python 3.x
--OpenCv
+- Python 3.x
+- OpenCv
