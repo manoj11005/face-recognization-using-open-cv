@@ -1,1 +1,1 @@
-# face-recognization-using-open-cv
+# Real-Time Face Detection with OpenCV
