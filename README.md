@@ -23,7 +23,4 @@ cd real-time-face-detection
 
 
 
-2. Install the required dependencies:
-
-pip install opencv-python
 
