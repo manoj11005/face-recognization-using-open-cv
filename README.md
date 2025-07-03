@@ -15,7 +15,7 @@ This repository contains a Python script for real-time face detection using a we
 
  ## Installation
 
-Clone the repository and navigate into the directory:
+1. Clone the repository and navigate into the directory:
 
 ```bash
 git clone https://github.com/yourusername/real-time-face-detection.git
