@@ -8,3 +8,7 @@ This repository contains a Python script for real-time face detection using a we
 - **Grayscale Conversion**: Converts frames to grayscale for improved detection performance.
 - **Visualization**: Draws rectangles around detected faces and displays the video feed in real-time.
 - **Interactive**: Runs until the user presses the 'q' key to exit.
+
+## Prerequisites
+-Python 3.x
+-OpenCv
